@@ -12,7 +12,7 @@ const config: Config = {
   },
 
   url: 'https://tasbihanoor.github.io',
-  baseUrl: '/ai-rag-book/',
+  baseUrl: '/',
 
   organizationName: 'Tasbihanoor',
   projectName: 'ai-book',
