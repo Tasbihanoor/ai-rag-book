@@ -11,8 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://github.com/Tasbihanoor.github.io',
-  baseUrl: '/',
+  url: 'https://tasbihanoor.github.io',
+  baseUrl: '/ai-rag-book/',
 
   organizationName: 'Tasbihanoor',
   projectName: 'ai-book',
